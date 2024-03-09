@@ -110,5 +110,6 @@ module.exports = {
 
 ```text
 node_modules
+dist
 
 ```
